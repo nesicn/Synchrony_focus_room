@@ -1,0 +1,6 @@
+{
+  "name": "SYNCHRONY Focus Room",
+  "description": "A focus workspace combining a custom Pomodoro timer with structured task lists and session history statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
