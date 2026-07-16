@@ -1,4 +1,4 @@
-link: https://nesicn.github.io/Synchrony_focus_room/
+link: https://nesicn.github.io/synchrony-focus-room/
 
 created by using google ai studio
 
